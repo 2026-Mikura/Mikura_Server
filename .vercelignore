@@ -1,0 +1,6 @@
+# Vercel 업로드에서 제외할 파일들
+src/
+tsconfig.build.json
+supabase_setup.sql
+.env
+.env.local
